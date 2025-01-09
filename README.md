@@ -21,7 +21,7 @@ This script implements a speed trap system for FiveM servers using QB-Core. It a
 1. Download and extract the script files to your server's `resources` folder.
 2. Add the following lines to your `server.cfg` to start the script or just add it to you [qb] folder:
 
-```   ensure tcz-speedtrap ```
+```   ensure tcz-speedtraps ```
 
 Here is a preview:
 https://www.youtube.com/watch?v=VRGBKmGN-zU
